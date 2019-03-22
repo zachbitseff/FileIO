@@ -1,0 +1,10 @@
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\obj\Debug\FileIO.Form1.resources
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\obj\Debug\FileIO.Properties.Resources.resources
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\obj\Debug\FileIO.csproj.GenerateResource.cache
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\bitsez\Desktop\File IO\FileIO\FileIO\obj\Debug\FileIO.pdb
